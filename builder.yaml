@@ -1,0 +1,4 @@
+projecttype: "Rust"
+buildfile: "Cargo.toml"
+artifactlist: "sthp.exe"
+outputpath: 'C:\Users\kitbe\Documents\RustSmokeTest\Artifacts'
